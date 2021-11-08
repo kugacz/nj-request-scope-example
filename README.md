@@ -4,14 +4,13 @@ Every controller/facade/service class in the application has implemented a const
 
 ## Prerequisites
 
-In order to run nj-request-scope-example you have to have installed:
 * node >= 9.11.2
 * npm >= 6.14.13
 
 ## Application run
 
 1. Checkout nj-request-scope-example GitHub repository
-2. Run command line and change the working directory to checked out repository
+2. Run the command line and change the working directory to the checked out repository
 3. Run ```npm i```
 4. Run ```npm start```
 5. Open [http://localhost:3000/](http://localhost:3000/) in a web browser
