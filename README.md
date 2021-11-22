@@ -1,7 +1,7 @@
 # nj-request-scope-example
-This repository is an example of the usage of [nj-request-scope](https://github.com/kugacz/nj-request-scope) package.
+This repository is **an example** of the usage of [nj-request-scope](https://github.com/kugacz/nj-request-scope) package.
 
-nj-request-scope package you can find --> [here](https://github.com/kugacz/nj-request-scope) <--
+**nj-request-scope package you can find --> [here](https://github.com/kugacz/nj-request-scope) <--**
 
 ## Description
 
