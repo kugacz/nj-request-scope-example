@@ -1,6 +1,11 @@
 # nj-request-scope-example
-Example usage of nj-request-scope package.
-Every controller/facade/service class in the application has implemented a constructor with console logging information about creating the class instance.
+This repository is an example of the usage of [nj-request-scope](https://github.com/kugacz/nj-request-scope) package.
+
+nj-request-scope package you can find --> [here](https://github.com/kugacz/nj-request-scope) <--
+
+## Description
+
+Every controller/facade/service class in this application has implemented a constructor with console logging information about creating the class instance.
 
 ## Prerequisites
 
