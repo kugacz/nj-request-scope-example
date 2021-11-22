@@ -1,10 +1,10 @@
 import { Inject, Injectable } from '@nestjs/common';
 import { Request } from 'express';
-import { REQUEST_PROVIDER } from 'nj-request-scope';
+import { NJRS_REQUEST } from 'nj-request-scope';
 
 @Injectable()
 export class RequestProviderService {
-    constructor(@Inject(REQUEST_PROVIDER) private readonly request: Request) {
+    constructor(@Inject(NJRS_REQUEST) private readonly request: Request) {
         console.log('RequestProviderService constructor');
     }
 
