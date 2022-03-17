@@ -28,10 +28,11 @@
   },
   "homepage": "https://github.com/kugacz/nj-request-scope-example#readme",
   "dependencies": {
-    "@nestjs/common": "^8.2.3",
-    "@nestjs/core": "^8.2.3",
-    "@nestjs/platform-express": "^8.2.3",
-    "nj-request-scope": "1.0.1",
+    "@nestjs/common": "^8.4.1",
+    "@nestjs/core": "^8.4.1",
+    "@nestjs/platform-express": "^8.4.1",
+    "ajv": "^8.10.0",
+    "nj-request-scope": "1.0.2",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.4.0"
   },
