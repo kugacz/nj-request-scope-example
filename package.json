@@ -32,7 +32,7 @@
     "@nestjs/core": "^8.4.4",
     "@nestjs/platform-express": "^8.4.4",
     "ajv": "^8.10.0",
-    "nj-request-scope": "1.0.3",
+    "nj-request-scope": "1.0.4",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.5.5"
   },
