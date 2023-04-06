@@ -1,6 +1,6 @@
 {
   "name": "nj-request-scope-example",
-  "version": "0.0.1-rc.0",
+  "version": "1.0.0",
   "description": "Example usage of nj-request-scope package",
   "main": "index.js",
   "scripts": {
