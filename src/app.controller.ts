@@ -9,6 +9,7 @@ export class AppController {
     }
 
     @Get()
+    // eslint-disable-next-line @typescript-eslint/class-methods-use-this -- This method can't be static
     getAvailableEndpoints(): string {
         return (
             `Available endpoints:` +
